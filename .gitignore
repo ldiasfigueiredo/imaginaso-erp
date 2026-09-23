@@ -1,0 +1,30 @@
+﻿## .NET / Visual Studio
+bin/
+obj/
+*.user
+.vs/
+*.suo
+
+## Docker
+docker-compose.override.yml
+
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+## Node / React
+node_modules/
+dist/
+.env
+.env.local
+
+## Configs sensíveis
+appsettings.Development.json
+appsettings.Production.json
+
+## Sistema
+.DS_Store
+Thumbs.db

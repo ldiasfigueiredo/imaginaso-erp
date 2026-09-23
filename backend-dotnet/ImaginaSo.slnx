@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ImaginaSo.Api/ImaginaSo.Api.csproj" />
+  <Project Path="ImaginaSo.Application/ImaginaSo.Application.csproj" />
+  <Project Path="ImaginaSo.Domain/ImaginaSo.Domain.csproj" />
+  <Project Path="ImaginaSo.Infrastructure/ImaginaSo.Infrastructure.csproj" />
+  <Project Path="ImaginaSo.Tests/ImaginaSo.Tests.csproj" />
+</Solution>
